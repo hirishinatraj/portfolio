@@ -1,7 +1,15 @@
 # iOS Portfolio
-Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've made throughout the years. My first exposure to code was in 9th grade, in the class AP Computer Science Principles, in which I made apps using MIT App Inventor. In 10th grade, I took AP Computer Science A, in which I learned Java. In 11th grade, I took an iOS App development in which I learned Swift. In 12th grade, I took the class again to learn more swift and make more apps. This year, I have made 2 apps, 1 as practice and one as a project with my friends. The one i made with friends is now in the app store.
+Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've made throughout the years.
 
 ## Apps and Projects
+
+#### 2025
+Internship at Pearson VUE. Created an account management portal using Topaz, Pearson VUE’s Angular re-skin, streamlining user workflows
+and aligning with corporate UX standards. Worked with ServiceNow to implement custom branding for their specific website, enhancing the user experience
+and client satisfaction. Developed a feature that increased user test-taking success rates, reducing support cases by up to 80,000 annually
+and saving the company up to $250K per year. Worked in an Agile development environment, collaborating with team members to adapt to evolving project
+requirements and consistently completing stories on time.
+
 #### 2023
 ### [Jotter](https://github.com/viswa-nadimpalli/madhacks-f23)
 This is a web app that I developed during MadHacks 2023 with team of 4. Jotter allows the user to upload a image or pdf with text, and user can decide whether they want the output to be a true or false quiz, multiple choice quiz, short answer quiz, or a cheatsheet based on the text in the input file. We used React to create the frontend and Flask for backend, used POST and GET requests to transfer data between the two. We also used pytesseract and pymupdf to convert input to text, then used OpenAI API to prompt Chat GPT
