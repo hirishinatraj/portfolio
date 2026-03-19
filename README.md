@@ -1,4 +1,4 @@
-# iOS Portfolio
+# Portfolio
 Hi, my name is Rishi Natraj, and this is a portfolio of apps and projects I've made throughout the years.
 
 ## Apps and Projects
